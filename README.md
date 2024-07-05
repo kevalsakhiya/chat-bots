@@ -1,5 +1,3 @@
-# chat-bots
-
 # Chatbot Project with LLM APIs (OpenAI and Gemini)
 
 This project implements two chatbots using different LLM (Large Language Model) APIs: OpenAI and Gemini. Each bot has specific capabilities and uses ChainLit for the UI implementation.
